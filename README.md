@@ -21,6 +21,6 @@ Custom integrations for the Unfolded Circle Remote platform.
 
 ## 🙏 Acknowledgements
 
-Special thanks to [Craig Shumer](https://theatermax.com) for supporting my development and testing work.
+Special thanks to [Craig Shumer](https://theatermax.com) for his continued support of my development work and home theater projects.
 
 This is an independent project and is not affiliated with Home Assistant, Unfolded Circle, Lumagen, Kaleidescape, Trinnov, HDFury, or Seymour.
