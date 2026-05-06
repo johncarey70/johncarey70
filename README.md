@@ -18,3 +18,9 @@ Custom integrations for the Unfolded Circle Remote platform.
 ### [Lumagen Unfolded Circle Integration](https://github.com/johncarey70/uc-integration-lumagen)
 ### [Kaleidescape Unfolded Circle Integration](https://github.com/johncarey70/uc-integration-kaleidescape)
 ### [Trinnov Unfolded Circle Integration](https://github.com/johncarey70/uc-integration-trinnov)
+
+## 🙏 Acknowledgements
+
+Special thanks to [Craig Shumer](https://theatermax.com) for supporting my development and testing work.
+
+This is an independent project and is not affiliated with Home Assistant, Unfolded Circle, Lumagen, Kaleidescape, Trinnov, HDFury, or Seymour.
