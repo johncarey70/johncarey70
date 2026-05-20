@@ -17,6 +17,7 @@ Custom integrations for the Unfolded Circle Remote platform.
 
 ### [Lumagen Unfolded Circle Integration](https://github.com/johncarey70/uc-integration-lumagen)
 ### [Kaleidescape Unfolded Circle Integration](https://github.com/johncarey70/uc-integration-kaleidescape)
+### [TiVo Unfolded Circle Integration](https://github.com/johncarey70/uc-integration-tivo)
 ### [Trinnov Unfolded Circle Integration](https://github.com/johncarey70/uc-integration-trinnov)
 
 ## 🙏 Acknowledgements
